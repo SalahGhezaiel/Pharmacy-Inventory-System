@@ -1,6 +1,6 @@
 # Pharmacy Inventory Management System
 
-## Short Description
+## Description
 
 A user-friendly pharmacy inventory management application built with Python, designed to help pharmacy staff efficiently track, update, and manage medication stock and expiry dates. The system connects to a MySQL database for secure and reliable data storage.
 
